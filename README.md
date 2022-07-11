@@ -1,3 +1,3 @@
 # stepik-homework
-homework by test automation 
-Using Python/Selenium
+- Homework by test automation;
+- Using Python/Selenium;
